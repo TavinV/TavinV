@@ -52,8 +52,8 @@
 
 ###
 
-<div align="left">
-  <img height="60" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png"  />
+<div align="right">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png"  />
 </div>
 
 ###
