@@ -1,20 +1,20 @@
-<h1 align="left">Olá mundo👋</h1>
+<h1 align="left">Hello world 👋</h1>
 
 ###
 
-<p align="left">Eu me chamo Otávio Vinícius, sou aluno de desenvolvimento de sistemas no Senai.</p>
+<p align="left">My name is Otávio Vinícius, I take a technical systems development course at Senai.</p>
 
 ###
 
-<h2 align="left">Sobre mim 🙋</h2>
+<h2 align="left">About me 🙋</h2>
 
 ###
 
-<p align="left">✨ Criando bugs desde 2019<br>📚 Aprendendo C++ & Java<br>🎯 Trabalhar na área<br>🎲 Fun fact: Jogo vôlei</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 Learning C++ & Java<br>🎯 Work with computer engineering<br>🎲 Fun fact: I play volleybal</p>
 
 ###
 
-<h2 align="left">Programo com 🧑‍💻</h2>
+<h2 align="left">I program with 🧑‍💻</h2>
 
 ###
 
