@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 Systems development technical course student at Senai-SP<br>🏐Volleyball player<br>📂Data Science</p>
+<p align="left">📚 Systems development technical course student at Senai-SP<br>🏐Volleyball player<br>
 
 ###
 
