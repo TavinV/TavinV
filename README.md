@@ -1,29 +1,85 @@
-# 💫 About Me:
-🔭 I’m currently working on MERN stack applications to solve problems.<br>👀 I'm looking for opportunities to work in system development.<br>🌱 I'm learning about System Architecture.
+# Otávio Vinícius · Full Stack Developer
 
+**Desenvolvedor Full Stack** atuando como PJ em software house desde 2026 — ciclo completo: features, bugs em produção, refatoração e atendimento a chamados. Foco em arquitetura de APIs, segurança de dados e sistemas que funcionam de verdade.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tavinvinicius) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/otavioviniciusflauzino) 
+Formado com nota máxima no SENAI Nami Jafet · Graduando em Engenharia de Software — UMC · Mogi das Cruzes, SP 🇧🇷
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+---
+
+## 🔧 O que estou fazendo agora
+
+- 💼 Trabalhando na **MaquinaBot** — software house, sistemas financeiros em produção com Fastify, PostgreSQL e Next.js
+- 🏗️ Aprofundando em SQL avançado, arquitetura de sistemas e design patterns
+- 📚 Cursando Engenharia de Software na UMC
+
+---
+
+## 🚀 Projetos em destaque
+
+**Sistema de Mesa Proprietária** · MaquinaBot *(confidencial)*
+> Dashboard financeiro para traders com máquina de estados, transactions SQL, auditoria completa e Swagger. Stack: Fastify · PostgreSQL · Next.js · TypeScript
+
+**Presença Facial SENAI**
+> Sistema de chamada escolar com reconhecimento facial, embeddings criptografados AES-256-GCM, cache Redis e engine Python/FastAPI separada. Conformidade LGPD.
+
+**Dália Semijoias** · Freelance
+> Catálogo digital integrado ao WhatsApp com painel admin e Cloudinary. Entregue em produção para cliente real.
+
+**SAMIF** · SENAI
+> Sistema de inventário e rastreamento de ferramentas com integração IoT via MQTT/Node-RED.
+
+---
+
+## 💻 Stack
+
+**Backend**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=flat-square&logo=fastify&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Banco de dados**
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+
+**Infra & Ferramentas**
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=TavinV&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TavinV&theme=dracula&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TavinV&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 <picture>
-  <!-- Mostra versão clara apenas se o usuário estiver em modo claro -->
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tavinv/tavinv/output/github-contribution-grid-snake.svg"/>
-  
-  <!-- Padrão: tema escuro -->
   <img alt="snake" src="https://raw.githubusercontent.com/tavinv/tavinv/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
-# 📊 GitHub Stats:
-
-  ![](https://github-readme-stats.vercel.app/api?username=TavinV&theme=dracula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=TavinV&theme=dracula&hide_border=true)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TavinV&theme=dracula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-
 ---
-[![](https://visitcount.itsvg.in/api?id=TavinV&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/otavioviniciusflauzino)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tavinvinicius)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%234595FF.svg?logo=vercel&logoColor=white)](https://otaviovinicius-portfolio.vercel.app/)
+
+[![](https://visitcount.itsvg.in/api?id=TavinV&icon=0&color=0)](https://visitcount.itsvg.in)
