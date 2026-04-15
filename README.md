@@ -16,14 +16,8 @@ Formado com nota máxima no SENAI Nami Jafet · Graduando em Engenharia de Softw
 
 ## 🚀 Projetos em destaque
 
-**Sistema de Mesa Proprietária** · MaquinaBot *(confidencial)*
-> Dashboard financeiro para traders com máquina de estados, transactions SQL, auditoria completa e Swagger. Stack: Fastify · PostgreSQL · Next.js · TypeScript
-
 **Presença Facial SENAI**
 > Sistema de chamada escolar com reconhecimento facial, embeddings criptografados AES-256-GCM, cache Redis e engine Python/FastAPI separada. Conformidade LGPD.
-
-**Dália Semijoias** · Freelance
-> Catálogo digital integrado ao WhatsApp com painel admin e Cloudinary. Entregue em produção para cliente real.
 
 **SAMIF** · SENAI
 > Sistema de inventário e rastreamento de ferramentas com integração IoT via MQTT/Node-RED.
