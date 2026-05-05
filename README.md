@@ -1,26 +1,19 @@
-# Otávio Vinícius · Full Stack Developer
+# Otávio Vinícius · Full Stack Developer, Microempreendedor, Especialista em sistemas com Reconhecimento Facial
 
-**Desenvolvedor Full Stack** atuando como PJ em software house desde 2026 — ciclo completo: features, bugs em produção, refatoração e atendimento a chamados. Foco em arquitetura de APIs, segurança de dados e sistemas que funcionam de verdade.
+**Desenvolvedor Full Stack** atuando no momento no ciclo completo de desenvolvimento em sistemas para o mercado financeiro — features, correção de bugs em produção, refatoração e atendimento a chamados. 
 
-Formado com nota máxima no SENAI Nami Jafet · Graduando em Engenharia de Software — UMC · Mogi das Cruzes, SP 🇧🇷
+Atualmente também construindo um **SaaS de reconhecimento facial**
+
+Formado com nota máxima no SENAI Nami Jafet &nbsp;·&nbsp; Graduando em Engenharia de Software — UMC &nbsp;·&nbsp; Mogi das Cruzes, SP 🇧🇷
 
 ---
 
 ## 🔧 O que estou fazendo agora
 
-- 💼 Trabalhando na **MaquinaBot** — software house, sistemas financeiros em produção com Fastify, PostgreSQL e Next.js
+- 💼 Trabalhando na **Maquina Code** — software house, sistemas financeiros em produção com Fastify, PostgreSQL e Next.js
+- ⚙️ Desenvolvendo um SaaS B2B Multi Tenant
 - 🏗️ Aprofundando em SQL avançado, arquitetura de sistemas e design patterns
 - 📚 Cursando Engenharia de Software na UMC
-
----
-
-## 🚀 Projetos em destaque
-
-**Presença Facial SENAI**
-> Sistema de chamada escolar com reconhecimento facial, embeddings criptografados AES-256-GCM, cache Redis e engine Python/FastAPI separada. Conformidade LGPD.
-
-**SAMIF** · SENAI
-> Sistema de inventário e rastreamento de ferramentas com integração IoT via MQTT/Node-RED.
 
 ---
 
@@ -45,13 +38,17 @@ Formado com nota máxima no SENAI Nami Jafet · Graduando em Engenharia de Softw
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 
+**IA & Visão Computacional**
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-%23005CED.svg?style=flat-square&logo=onnx&logoColor=white)
+
 **Infra & Ferramentas**
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+
 
 ---
 
