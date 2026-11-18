@@ -1,5 +1,5 @@
 <div align="center">
-# Otávio Vinícius
+## Otávio Vinícius
  
 **Desenvolvedor Full Stack · Sistemas financeiros & Reconhecimento Facial**
  
@@ -11,7 +11,7 @@ Fundador da [Flauzino Sistemas](https://flauzinosistemas.com.br) · Criador do [
 [![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otavioviniciusads@gmail.com)
  
 </div>
---
+
  
 ## Sobre
  
