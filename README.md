@@ -1,5 +1,6 @@
 <div align="center">
-## Otávio Vinícius
+
+# Otávio Vinícius
  
 **Desenvolvedor Full Stack · Sistemas financeiros & Reconhecimento Facial**
  
